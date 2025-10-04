@@ -6,8 +6,8 @@ import Hero from "./Hero";
 function Support() {
     return ( 
         <>
-            <CreateTicket></CreateTicket>
             <Hero></Hero>
+            <CreateTicket></CreateTicket>
         </>
      );
 }
