@@ -21,3 +21,24 @@ a{
   text-decoration: none;
 } 
 
+#supportHero{
+  background-color: rgb(56,126,209);
+  color : white;
+}
+
+#supportWrapper{
+  display : flex;
+  justify-content:space-around;
+  margin : 0 auto;
+}
+
+#supportHero a{
+  color: white;
+  text-decoration: underline;
+}
+
+#supportHero input{
+  padding: 10px 100px;
+  border-radius: 10px;
+  border : none;
+}
